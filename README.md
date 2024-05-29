@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay20n&" alt="akshay20n" /></p><br><br>
 
-<p><a href="https://www.buymeacoffee.com/AKSHAY NAVALE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AKSHAY NAVALE" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/AkshayNavale"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AKSHAY NAVALE" /></a></p><br><br>
 
