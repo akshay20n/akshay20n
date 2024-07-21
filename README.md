@@ -1,3 +1,6 @@
+
+---
+
 <h1 align="center">Hi 👋, I'm Akshay Navale</h1>
 <h3 align="center">A passionate Bsc Cs Graduate & soon to be DevOps Engineer from India</h3>
 
@@ -30,3 +33,4 @@
 
 <p><a href="https://www.buymeacoffee.com/AkshayNavale"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AKSHAY NAVALE" /></a></p><br><br>
 
+---
