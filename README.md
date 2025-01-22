@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Navale</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">Bsc Graduate & IBM Certified Professional DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay20n&label=Profile%20views&color=0e75b6&style=flat" alt="akshay20n" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **CI/CD Automation.**
 
-- 📫 How to reach me **akshaynavale5915@gmail.com**
+- 📫 How to reach me **akshaynavale20janak@gmail.com**
 
 - ⚡ Fun fact **As a DevOps Engineer, I turn chaos into streamlined automation, making workflows run like clockwork.**
 
