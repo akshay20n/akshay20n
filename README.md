@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Navale</h1>
-<h3 align="center">Bsc Cs Graduate & IBM Certified Professional DevOps Engineer from India</h3>
+<h3 align="center">IBM Certified DevOps Engineer | Computer Science Student | Skilled in AWS, Google Cloud, Kubernetes & Automation, from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay20n&label=Profile%20views&color=0e75b6&style=flat" alt="akshay20n" /> </p>
 
